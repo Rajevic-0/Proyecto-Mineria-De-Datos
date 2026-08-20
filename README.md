@@ -18,4 +18,4 @@ Para el proyecto se utilizo el siguiente [dataset](https://www.kaggle.com/datase
 
 
 ### Entregas:
-Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajevic-0/Proyecto-Mineria-De-Datos/blob/main/Notebooks/Hito_1.ipynb)
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajevic-0/Proyecto-Mineria-De-Datos/blob/main/Notebooks/Airbnb.ipynb)
