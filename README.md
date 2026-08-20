@@ -10,6 +10,11 @@ En los últimos años, plataformas como Airbnb han dejado de ser exclusivamente 
 
 Este fenómeno, conocido como turistificación, tiene consecuencias directas sobre el acceso a vivienda en ciudades como Barcelona, Lisboa o París: reduce la oferta de arriendo residencial, infla los precios y transforma barrios enteros en zonas de uso turístico intensivo.
 
+<div align="center">
+  <img src="https://github.com/Rajevic-0/Proyecto-Mineria-De-Datos/blob/main/Images/Precio esperado.png" style="width: 50%;">
+</div>
+
+
 Este proyecto busca abordar este problema desde la minería de datos, utilizando el dataset Airbnb Market Data Europe (~95.000 anuncios, 61 variables) complementado con datos históricos mensuales de ocupación y precios (past_rates, ~1.1M registros). Juntos, estos datasets permiten analizar no solo el estado actual del mercado, sino también su comportamiento estacional.
 
 El análisis se estructura en torno a cuatro preguntas de investigación que combinan técnicas supervisadas y no supervisadas, y que buscan entregar herramientas concretas para reguladores y organismos de política pública.
